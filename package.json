@@ -34,7 +34,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@types/lodash": "^4.14.149",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
